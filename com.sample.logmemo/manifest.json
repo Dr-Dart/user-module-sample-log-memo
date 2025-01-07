@@ -1,0 +1,19 @@
+{
+    "main": "index.bundle.js",
+    "usesPermissions": [],
+    "supportedLanguages": [],
+    "requiredPackageNames": [],
+    "type": "DASHBOARD",
+    "screens": [
+        {
+            "name": "Log Memo\n(Sample)",
+            "id": "MainScreen",
+            "messageFilters": [
+                {
+                    "action": "dart.message.action.MAIN",
+                    "category": "dart.message.category.SCREEN"
+                }
+            ]
+        }
+    ]
+}

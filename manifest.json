@@ -1,0 +1,9 @@
+{
+    "name": "LogMemo",
+    "packageName": "com.sample.logmemo",
+    "version": "1.0.0",
+    "sdkVersion": "2",
+    "icon": "assets/images/icon.png",
+    "drscModulePackageFile": "drsc_com.sample.logmemo.dm",
+    "drcfModulePackageFile": ""
+}
