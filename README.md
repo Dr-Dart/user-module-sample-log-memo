@@ -2,6 +2,7 @@
 This module is a sample module that provides log message and event message processing and storage functionality through DRL's tp_log() and message_to_dp() functions.
 
 ![Module Main Screen](./release/module_main.PNG)
+[Download Module (v1.0.0)](https://github.com/Dr-Dart/user-module-sample-log-memo/releases/tag/untagged-3b434b5b81ca66e38246)
 
 ## Overview
 This module provides the following features:
